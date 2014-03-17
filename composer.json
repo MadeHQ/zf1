@@ -1,13 +1,7 @@
 {
-    "name": "zendframework/zendframework1",
-    "description": "Zend Framework 1",
+    "name": "mademedia/zendframework1",
+    "description": "Made Media customized Zend Framework 1",
     "type": "library",
-    "keywords": [
-        "framework",
-        "zf1"
-    ],
-    "homepage": "http://framework.zend.com/",
-    "license": "BSD-3-Clause",
     "require": {
         "php": ">=5.2.11"
     },
